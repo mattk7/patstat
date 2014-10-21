@@ -1,4 +1,4 @@
-Patstat resources
+PATSTAT resources
 =======
 
 ####patstat2014a.sql
